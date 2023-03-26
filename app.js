@@ -23,7 +23,7 @@ function addTodo(event) {
   // prevent from the submitting
   event.preventDefault();
   // create div elements for the to do list
-  // createtoto div
+  // create todo div
   const todoDiv = document.createElement("div");
   todoDiv.classList.add("todo");
   // create li
